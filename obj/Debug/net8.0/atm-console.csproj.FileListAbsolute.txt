@@ -1,0 +1,14 @@
+/Users/jeremycook/Desktop/coding/atm-console/bin/Debug/net8.0/atm-console
+/Users/jeremycook/Desktop/coding/atm-console/bin/Debug/net8.0/atm-console.deps.json
+/Users/jeremycook/Desktop/coding/atm-console/bin/Debug/net8.0/atm-console.runtimeconfig.json
+/Users/jeremycook/Desktop/coding/atm-console/bin/Debug/net8.0/atm-console.dll
+/Users/jeremycook/Desktop/coding/atm-console/bin/Debug/net8.0/atm-console.pdb
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/atm-console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/atm-console.AssemblyInfoInputs.cache
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/atm-console.AssemblyInfo.cs
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/atm-console.csproj.CoreCompileInputs.cache
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/atm-console.dll
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/refint/atm-console.dll
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/atm-console.pdb
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/atm-console.genruntimeconfig.cache
+/Users/jeremycook/Desktop/coding/atm-console/obj/Debug/net8.0/ref/atm-console.dll
